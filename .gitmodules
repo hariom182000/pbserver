@@ -1,0 +1,3 @@
+[submodule "protoModels"]
+	path = protoModels
+	url = https://github.com/hariom182000/protoModels.git
